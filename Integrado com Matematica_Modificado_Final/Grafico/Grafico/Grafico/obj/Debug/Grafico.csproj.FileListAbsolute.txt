@@ -1,0 +1,30 @@
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Grafico\Grafico\Grafico\bin\Debug\Grafico.exe.config
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Grafico\Grafico\Grafico\bin\Debug\Grafico.exe
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Grafico\Grafico\Grafico\bin\Debug\Grafico.pdb
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Grafico\Grafico\Grafico\obj\Debug\Grafico.csprojResolveAssemblyReference.cache
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Grafico\Grafico\Grafico\obj\Debug\Grafico.Form1.resources
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Grafico\Grafico\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Grafico\Grafico\Grafico\obj\Debug\Grafico.csproj.GenerateResource.Cache
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Grafico\Grafico\Grafico\obj\Debug\Grafico.exe
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Grafico\Grafico\Grafico\obj\Debug\Grafico.pdb
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Grafico\Grafico\Grafico\obj\Debug\Grafico.Alunos.resources
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Grafico\Grafico\Grafico\bin\Debug\Grafico.exe.config
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Grafico\Grafico\Grafico\obj\Debug\Grafico.exe
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Grafico\Grafico\Grafico\obj\Debug\Grafico.pdb
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Grafico\Grafico\Grafico\obj\Debug\Grafico.csprojResolveAssemblyReference.cache
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Grafico\Grafico\Grafico\obj\Debug\Grafico.Alunos.resources
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Grafico\Grafico\Grafico\obj\Debug\Grafico.Form1.resources
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Grafico\Grafico\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Grafico\Grafico\Grafico\obj\Debug\Grafico.csproj.GenerateResource.Cache
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Grafico\Grafico\Grafico\bin\Debug\Grafico.exe
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Grafico\Grafico\Grafico\bin\Debug\Grafico.pdb
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Grafico\Grafico\Grafico\bin\Debug\Grafico.exe.config
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Grafico\Grafico\Grafico\obj\Debug\Grafico.exe
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Grafico\Grafico\Grafico\obj\Debug\Grafico.pdb
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Grafico\Grafico\Grafico\bin\Debug\Grafico.exe
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Grafico\Grafico\Grafico\bin\Debug\Grafico.pdb
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Grafico\Grafico\Grafico\obj\Debug\Grafico.csprojResolveAssemblyReference.cache
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Grafico\Grafico\Grafico\obj\Debug\Grafico.Alunos.resources
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Grafico\Grafico\Grafico\obj\Debug\Grafico.Form1.resources
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Grafico\Grafico\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Grafico\Grafico\Grafico\obj\Debug\Grafico.csproj.GenerateResource.Cache

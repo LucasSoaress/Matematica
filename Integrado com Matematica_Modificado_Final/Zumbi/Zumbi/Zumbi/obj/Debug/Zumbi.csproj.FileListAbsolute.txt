@@ -1,0 +1,44 @@
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Zumbi\Zumbi\Zumbi\bin\Debug\Zumbi.exe.config
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Zumbi\Zumbi\Zumbi\bin\Debug\Zumbi.exe
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Zumbi\Zumbi\Zumbi\bin\Debug\Zumbi.pdb
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.csprojResolveAssemblyReference.cache
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.Form1.resources
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.Properties.Resources.resources
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.csproj.GenerateResource.Cache
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.exe
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.pdb
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.Sobre.resources
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Antoanne\Integrado com Matematica\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.Alunos.resources
+C:\Users\Eduardo.Moutinho\Desktop\Integrado com Matematica\Zumbi\Zumbi\Zumbi\bin\Debug\Zumbi.exe.config
+C:\Users\Eduardo.Moutinho\Desktop\Integrado com Matematica\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.exe
+C:\Users\Eduardo.Moutinho\Desktop\Integrado com Matematica\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.pdb
+C:\Users\Eduardo.Moutinho\Desktop\Integrado com Matematica\Zumbi\Zumbi\Zumbi\bin\Debug\Zumbi.exe
+C:\Users\Eduardo.Moutinho\Desktop\Integrado com Matematica\Zumbi\Zumbi\Zumbi\bin\Debug\Zumbi.pdb
+C:\Users\Eduardo.Moutinho\Desktop\Integrado com Matematica\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo.Moutinho\Desktop\Integrado com Matematica\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.Form1.resources
+C:\Users\Eduardo.Moutinho\Desktop\Integrado com Matematica\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.Properties.Resources.resources
+C:\Users\Eduardo.Moutinho\Desktop\Integrado com Matematica\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.alunos.resources
+C:\Users\Eduardo.Moutinho\Desktop\Integrado com Matematica\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.Sobre.resources
+C:\Users\Eduardo.Moutinho\Desktop\Integrado com Matematica\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.csproj.GenerateResource.Cache
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Zumbi\Zumbi\Zumbi\bin\Debug\Zumbi.exe.config
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.exe
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.pdb
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Zumbi\Zumbi\Zumbi\bin\Debug\Zumbi.exe
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Zumbi\Zumbi\Zumbi\bin\Debug\Zumbi.pdb
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.csprojResolveAssemblyReference.cache
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.Form1.resources
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.Properties.Resources.resources
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.alunos.resources
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.Sobre.resources
+C:\Users\Lucas.Soares\Desktop\Integrado com Matematica_Modificado\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.csproj.GenerateResource.Cache
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Zumbi\Zumbi\Zumbi\bin\Debug\Zumbi.exe.config
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.exe
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.pdb
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Zumbi\Zumbi\Zumbi\bin\Debug\Zumbi.exe
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Zumbi\Zumbi\Zumbi\bin\Debug\Zumbi.pdb
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.csprojResolveAssemblyReference.cache
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.Form1.resources
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.Properties.Resources.resources
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.alunos.resources
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.Sobre.resources
+C:\Users\LUCAS\Desktop\Integrado com Matematica_Modificado_Final\Zumbi\Zumbi\Zumbi\obj\Debug\Zumbi.csproj.GenerateResource.Cache
